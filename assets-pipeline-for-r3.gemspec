@@ -20,6 +20,7 @@ Gem::Specification.new do |s|
   s.add_dependency('sass')
   s.add_dependency('uuid')
   s.add_dependency('sprockets' , ">= 2.1.2")
+  s.add_dependency('uglifier')
 
   s.add_development_dependency('yard')
   s.add_development_dependency('rake', '0.8.7')
