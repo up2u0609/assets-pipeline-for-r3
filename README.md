@@ -6,7 +6,7 @@ The asset pipeline provides a framework to concatenate and minify or compress Ja
 
 # Installation
 
-1. Add assets-pipeline-for-r3 to your Gemfile (add add haml too if you have not already):
+1. Add assets-pipeline-for-r3 to your Gemfile:
 
 `gem "assets-pipeline-for-r3" , :git => "git://github.com/up2u0609/assets-pipeline-for-r3.git"`
 
