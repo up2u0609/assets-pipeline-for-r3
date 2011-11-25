@@ -17,12 +17,13 @@ after:
 `require "rails/all"`
 
 append:
+`require "assets_pipeline_for_r3"`
 
 3. mount the route, add this line into your routes.rb
 
 `mount Rails.application.assets => "/assets" , :as => :assets`
 
-`require "assets_pipeline_for_r3"`
+
 
 # Usage
   Just enjoy it follow this link from guide of r3.1: http://guides.rubyonrails.org/asset_pipeline.html
