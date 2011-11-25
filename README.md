@@ -4,7 +4,7 @@ As far as you known , assets pipeline on r3.1 is a railtie which wrap the sprock
 
 # Installation
 
-1. Add surveyor to your Gemfile (add add haml too if you haven't already):
+1. Add surveyor to your Gemfile (add add haml too if you have not already):
 
 `gem "sprockets_rails" , :git => "git://github.com/up2u0609/assets-pipeline-for-r3.git"`
 
