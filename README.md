@@ -18,6 +18,10 @@ after:
 
 append:
 
+3. mount the route, add this line into your routes.rb
+
+`mount Rails.application.assets => "/assets" , :as => :assets`
+
 `require "assets_pipeline_for_r3"`
 
 # Usage
